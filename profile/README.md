@@ -15,7 +15,7 @@ limitations, licensing boundaries, trace IDs, and human-review requirements.
 
 - [Developer platform](https://esheria.ai/api)
 - [CLI](https://esheria.ai/cli)
-- [MCP](https://esheria.ai/mcp)
+- [MCP](https://docs.esheria.ai/agent-tools/mcp)
 - [Documentation](https://docs.esheria.ai/quickstart)
 - [PyPI](https://pypi.org/project/esheria/)
 - [Terms](https://esheria.ai/terms)
