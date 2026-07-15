@@ -14,7 +14,7 @@ They preserve pack readiness, versions, citations, source context,
 limitations, licensing boundaries, trace IDs, and human-review requirements.
 
 - [Developer platform](https://esheria.ai/api)
-- [CLI](https://esheria.ai/cli)
+- [CLI](https://docs.esheria.ai/cli)
 - [MCP](https://docs.esheria.ai/agent-tools/mcp)
 - [Documentation](https://docs.esheria.ai/quickstart)
 - [PyPI](https://pypi.org/project/esheria/)
